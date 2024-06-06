@@ -1,0 +1,6 @@
+# Virtual environment
+.venv
+
+# Data
+data/*.mp4
+data/frames/
