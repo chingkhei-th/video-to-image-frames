@@ -15,4 +15,4 @@ Head into the **video_frame_extractor.py** loacated directory and:
 
 ```bash
 python src/video_frame_extractor.py </path/to/video.mp4> <number_of_frames_per_second>
-
+```
